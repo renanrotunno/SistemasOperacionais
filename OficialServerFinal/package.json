@@ -1,0 +1,11 @@
+{
+	"name":"SOSERVER",
+	"version":"1.0.0",
+	"description":"",
+	"main":"server.js",
+	"author":"Daniel e Renan",
+	"license":"MIT",
+	"dependencies":{
+
+	}
+}

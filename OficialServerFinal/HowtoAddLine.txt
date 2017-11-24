@@ -1,0 +1,1 @@
+INSERT INTO temperatures values(date('now','-1day'), time('now'), "idsensor", 20.6);
